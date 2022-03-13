@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/scrapyd-cluster-on-heroku-scrapyd-app-git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scrapyd-cluster-on-heroku-scrapydweb-app-git-master" vcs="Git" />
   </component>
 </project>
